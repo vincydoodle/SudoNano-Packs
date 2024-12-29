@@ -4,7 +4,7 @@
 Install the latest version EVERY time.
 
 ## How to Find the latest Version
-### ***<ins>The format of version tags</ins>***
+### ***The format of version tags***
 
 You will se a number after the name of each pack
 Example: Sudonano 1.2.3
